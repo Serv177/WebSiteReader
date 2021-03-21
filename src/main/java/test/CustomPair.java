@@ -1,3 +1,5 @@
+package test;
+
 import javafx.beans.NamedArg;
 
 import java.io.Serializable;
